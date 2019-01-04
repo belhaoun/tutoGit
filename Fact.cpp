@@ -9,5 +9,5 @@ Fact::Fact(int x,int y)
 
 int Fact::getSum()
 {
-  return gx + gy;
+  return gy;
 }
